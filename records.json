@@ -1,0 +1,19 @@
+{
+  "players": ["Noyan", "Bliss"],
+  "tracks": [
+    {
+      "name": "A01-Race",
+      "records": {
+        "Noyan": "0:00.00",
+        "Bliss": "0:00.00"
+      }
+    },
+    {
+      "name": "A02-Race",
+      "records": {
+        "Noyan": "0:00.00",
+        "Bliss": "0:00.00"
+      }
+    }
+  ]
+}
