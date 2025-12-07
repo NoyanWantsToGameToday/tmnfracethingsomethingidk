@@ -1,19 +1,74 @@
 {
   "players": ["Noyan", "Bliss"],
   "tracks": [
-    {
-      "name": "A01-Race",
-      "records": {
-        "Noyan": "0:00.00",
-        "Bliss": "0:00.00"
-      }
-    },
-    {
-      "name": "A02-Race",
-      "records": {
-        "Noyan": "0:00.00",
-        "Bliss": "0:00.00"
-      }
-    }
+    { "name": "A01-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A02-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A03-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A04-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A05-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A06-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A07-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A08-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A09-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A10-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A11-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A12-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A13-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A14-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "A15-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+
+    { "name": "B01-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B02-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B03-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B04-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B05-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B06-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B07-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B08-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B09-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B10-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B11-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B12-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B13-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B14-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "B15-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+
+    { "name": "C01-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C02-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C03-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C04-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C05-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C06-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C07-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C08-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C09-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C10-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C11-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C12-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C13-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C14-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "C15-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+
+    { "name": "D01-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D02-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D03-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D04-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D05-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D06-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D07-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D08-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D09-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D10-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D11-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D12-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D13-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D14-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "D15-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+
+    { "name": "E01-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "E02-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "E03-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "E04-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } },
+    { "name": "E05-Race", "records": { "Noyan": "0:00.00", "Bliss": "0:00.00" } }
   ]
 }
