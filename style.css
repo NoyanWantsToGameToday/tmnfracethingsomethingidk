@@ -1,25 +1,43 @@
 body {
   font-family: Arial, sans-serif;
-  background: #111;
+  background: #0e0e0e;
   color: #eee;
   padding: 20px;
 }
 
-table {
-  width: 100%;
-  border-collapse: collapse;
+.tier-header {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin: 18px 0 8px;
 }
 
-th, td {
-  border: 1px solid #444;
-  padding: 8px;
-  text-align: center;
+.tier-header span {
+  font-weight: bold;
+  font-size: 16px;
+  min-width: 70px;
 }
 
-th {
-  background: #222;
+.tier-line {
+  flex: 1;
+  height: 2px;
+  background: #444;
+  margin-left: 10px;
 }
 
-tr:nth-child(even) {
-  background: #181818;
+.track {
+  padding: 6px 12px;
+  margin-left: 20px;
+  border-left: 2px solid #333;
+  font-size: 14px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.track:hover {
+  background: #1a1a1a;
+}
+
+.records {
+  opacity: 0.8;
 }
